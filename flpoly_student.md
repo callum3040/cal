@@ -24,6 +24,11 @@ I am _passionate about_:
 https://mk0floridapolyrvphbf.kinstacdn.com/wp-content/uploads/news-images-ultimatefrisbeeteam-01.31.2020-scaled.jpg
 https://www.instagram.com/p/B79CGUpnAV6/
 https://www.instagram.com/p/B7zUzuFHlPA/
+
+
+
+
+
 | **prefix**    | **number**     | _name_                      |credits|
 |:--------------|:---------------|:----------------------------|:------|
 |**COP**        | **3337**       | _object OrientedProgramming_|3      |
